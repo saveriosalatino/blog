@@ -1,12 +1,24 @@
-baseURL : 'https://saveriosalatino.github.io/blog/'
-languageCode : 'en-us'
-title : 'My New Hugo Site'
-theme : 'PaperMod'
-googleAnalytics : 'G-D6QV5WCFNJ'
+baseURL: 'https://saveriosalatino.github.io/blog/'
+languageCode: 'en-us'
+title: 'My New Hugo Site'
+theme: 'PaperMod'
+googleAnalytics: 'G-D6QV5WCFNJ'
+paginate: 5
 
-Params :
-    ShowReadingTime : true
-    ShowToc : true
-    TocOpen : true
-    ShowBreadCrumbs : true
-    ShowPostNavLinks : true
+Params:
+    env: production
+    author: "Saverio Salatino"
+    defaultTheme: auto
+    showWordCount: true
+    ShowReadingTime: true
+    ShowToc: true
+    TocOpen: true
+    ShowBreadCrumbs: true
+    ShowPostNavLinks: true
+    comments: false
+    UseHugoToc: true
+    hidemeta: false
+  
+    analytics:
+        google:
+            SiteVerificationTag: "XYZabc"
