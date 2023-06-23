@@ -6,3 +6,4 @@ draft: false
 
 Qui Scriviamo qualcosa della tappa 1
 Roba in *grassetto*
+Un _due_ *tre* _stella_
