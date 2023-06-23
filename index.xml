@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Jun 2023 22:25:40 +0200</lastBuildDate><atom:link href="https://saveriosalatino.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Tappa1</title>
+      <link>https://saveriosalatino.github.io/blog/tappa1/</link>
+      <pubDate>Fri, 23 Jun 2023 13:09:00 +0200</pubDate>
+      
+      <guid>https://saveriosalatino.github.io/blog/tappa1/</guid>
+      <description>Qui Scriviamo qualcosa della tappa 1 Roba in grassetto</description>
+    </item>
+    
+    <item>
       <title>Test</title>
       <link>https://saveriosalatino.github.io/blog/docs/test/</link>
       <pubDate>Thu, 22 Jun 2023 22:25:40 +0200</pubDate>
