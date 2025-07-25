@@ -3,7 +3,9 @@ languageCode: 'en-us'
 title: 'My New Hugo Site'
 theme: 'PaperMod'
 googleAnalytics: 'G-D6QV5WCFNJ'
-paginate: 5
+
+pagination:
+  pagerSize: 10
 
 Params:
     env: production

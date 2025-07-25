@@ -4,26 +4,27 @@
     <title>My New Hugo Site</title>
     <link>https://saveriosalatino.github.io/blog/</link>
     <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jun 2023 22:25:40 +0200</lastBuildDate><atom:link href="https://saveriosalatino.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jun 2023 13:09:00 +0200</lastBuildDate>
+    <atom:link href="https://saveriosalatino.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tappa1</title>
       <link>https://saveriosalatino.github.io/blog/tappa1/</link>
       <pubDate>Fri, 23 Jun 2023 13:09:00 +0200</pubDate>
-      
       <guid>https://saveriosalatino.github.io/blog/tappa1/</guid>
-      <description>Qui Scriviamo qualcosa della tappa 1</description>
+      <description>&lt;p&gt;Qui Scriviamo qualcosa della tappa 1
+Roba in &lt;em&gt;grassetto&lt;/em&gt;
+Un &lt;em&gt;due&lt;/em&gt; &lt;em&gt;tre&lt;/em&gt; &lt;em&gt;stella&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Test</title>
       <link>https://saveriosalatino.github.io/blog/docs/test/</link>
       <pubDate>Thu, 22 Jun 2023 22:25:40 +0200</pubDate>
-      
       <guid>https://saveriosalatino.github.io/blog/docs/test/</guid>
-      <description>Test Test Test</description>
+      <description>&lt;p&gt;Test
+Test
+Test&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

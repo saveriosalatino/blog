@@ -4,17 +4,18 @@
     <title>Docs on My New Hugo Site</title>
     <link>https://saveriosalatino.github.io/blog/docs/</link>
     <description>Recent content in Docs on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jun 2023 22:25:40 +0200</lastBuildDate><atom:link href="https://saveriosalatino.github.io/blog/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jun 2023 22:25:40 +0200</lastBuildDate>
+    <atom:link href="https://saveriosalatino.github.io/blog/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
       <link>https://saveriosalatino.github.io/blog/docs/test/</link>
       <pubDate>Thu, 22 Jun 2023 22:25:40 +0200</pubDate>
-      
       <guid>https://saveriosalatino.github.io/blog/docs/test/</guid>
-      <description>Test Test Test</description>
+      <description>&lt;p&gt;Test
+Test
+Test&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
