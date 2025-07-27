@@ -32,6 +32,21 @@ Dal borgo di **Canolo** si sale al **Passo del Mercante**, quindi si attraversa
 - **Canolo** (partenza): sereno, 18‑27 °C, vento moderato da N.  
 - **Gambarie** (arrivo): soleggiato, max 23 °C; possibili raffiche > 30 km/h nel pomeriggio.
 
+### 📌 Spot opzionali – Tappa 2 (Canolo → Gambarie)
+
+| Spot | Breve descrizione | Link ufficiale | Tel. | Percorso dal tracciato GPX | Distanza* |
+|------|------------------|----------------|------|----------------------------|-----------|
+| **Belvedere Monte Nardello** | Punto panoramico a ≈ 1 760 m con vista sullo Stretto di Messina; resti della ex base radar USAF. | <https://www.parconazionaleaspromonte.it/itinerari-dettaglio.php?id_iti=5030> | — | Sentiero escursionistico **sterrato** (deviazione dal sentiero 120) | n.d.† |
+| **Cascate Mundu e Galasì** | Doppia cascata della fiumara Bonamico, geosito del Parco (sentiero 220). | <https://www.parconazionaleaspromonte.it/storytelling_dettaglio.php?id=76440> | — | Sentiero escursionistico **sterrato** (accesso da Molochio) | n.d.† |
+| **Villaggio Zervò** | Ex sanatorio anni ’30 oggi rifugio e centro equestre; bar e foresteria. | <https://zervo.it/> | +39 339 369 8601 | Su SP asfaltata, **non sterrato** | **sul percorso** |
+| **Pietra Cappa** | Monolite conglomeratico alto 140 m, simbolo della “Valle delle Grandi Pietre”. | <https://www.parconazionaleaspromonte.it/pun-dettaglio.php?id=3171> | — | Pista forestale + sentiero **sterrato** | n.d.† |
+| **Montalto** (1 955 m) | Vetta più alta dell’Aspromonte; panorama su Tirreno, Ionio ed Etna. | <https://www.parconazionaleaspromonte.it/itinerari-dettaglio.php?id_iti=6465> | — | Strada asfaltata fino a rifugio, poi ultimo tratto **sterrato** | n.d.† |
+| **Cascate Maesano (Forgiarelle)** | Triplice salto del torrente Menta (90 m) in faggeta; scalette e parapetti. | <https://www.parconazionaleaspromonte.it/iniziativa.php?id=110736> | — | Strada di servizio lago Menta asfaltata + ultimo km **sterrato** | n.d.† |
+| **Diga – Lago del Menta** | Invaso artificiale a ≈ 1 300 m: area picnic, sentieri circumlacuali e punto di partenza per Maesano. | <https://www.parconazionaleaspromonte.it/news-dettaglio.php?id=67604> | — | Strada di servizio **asfaltata** (accesso bici consentito) | n.d.† |
+
+\* Distanze in linea d’aria rispetto alla traccia **Canolo – Gambarie**: valori non disponibili (“n.d.”) dove non reperiti da fonte ufficiale.  
+† Verificare sul posto o con guide locali; alcuni tratti potrebbero richiedere MTB/trekking.
+
 ---
 
 [^4]: <https://www.paginegialle.it/mammola-rc/ristoranti/passo-mercante>  
