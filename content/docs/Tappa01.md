@@ -4,41 +4,38 @@ date: 2025-07-27T13:09:00+02:00
 draft: false
 ---
 
-Qui sotto trovi il profilo altimetrico che ho ricavato dalla tua nuova traccia Rosarno ➜ Cànolo: le linee tratteggiate indicano i punti-di-interesse di cui parlo più avanti. Scorri il grafico per valutare dove spingere di più (o di meno) l’assistenza.
+# Tappa 1 — Rosarno 🚉 → Canolo 🍝  
+**Data:** venerdì **1 agosto 2025**
 
-1 | La traccia in numeri
-Distanza	Dislivello +	Dislivello –	Quota min-max	Fondo prevalente
-33 km	≈ 980 m	≈ 85 m	16 → 955 m	primi 15 km asfaltati, poi sterrato forestale
+| Distanza | Salita totale | Discesa totale | Fondo | E‑bike |
+|----------|--------------|----------------|-------|--------|
+| 33,4 km  | 977 m        | 84 m           | asfalto + brevi tratti secondari | batteria ≥ 500 Wh consigliata |
 
-Batteria & logistica
-Con un pacco da 500 Wh in ECO/Tour completi l’itinerario e 2-3 piccole deviazioni.
+## Descrizione del percorso  
+Si parte dalla **stazione FS di Rosarno** e si attraversa la piana di Gioia Tauro, risalendo le pendici aspromontane via **Polistena**, **Cittanova**, **San Giorgio Morgeto** e l’**antico Passo della Limina** (986 m). Ultimi 6 km in quota tra faggi e “Dolomiti dell’Aspromonte” prima di scendere al centro di **Canolo**.
 
-Fontane a San Giorgio Morgeto, Zomaro e Cànolo.
+## Punti di interesse  
+- **Centro storico di Polistena** – palazzi tardo‑barocchi e piazzetta Ottocentesca.  
+- **Villa comunale “Carlo Ruggiero”** (Cittanova) – raro esempio di giardino romantico del 1880.  
+- **Castello normanno** di San Giorgio Morgeto – panoramica sulla Piana di Gioia Tauro.  
+- **Passo della Limina** – antico valico tra Tirreno e Ionio; fontana di acqua oligominerale.
 
-Copertura telefonica buona fin quasi a Zomaro; negli ultimi 8 km può diventare intermittente.
+## Ristori e ricarica batteria  
+| Km indicativo | Località | Telefono | Note |
+|---------------|----------|----------|------|
+| ~14 km | **Donna Nela – Enoteca‑Ristorante** (Polistena) | +39 0966 932 943 | Cucina calabrese; presa 220 V su richiesta[^1] |
+| ~24 km | **Castello degli Dei** (San Giorgio Morgeto) | +39 0966 948 249 | Terrazza panoramica; menu ciclisti su prenotazione[^2] |
 
-2 | Deviazioni consigliate (in ordine di percorrenza)
-km traccia	extra (A/R)	spot	perché fermarsi	note pratiche
-0,2	1 km	Parco archeologico di Medma	colonia greca del VI sec. a.C. immersa fra gli ulivi	ingresso 3 €, tutto su asfalto 
-MiBACT
-12,6	2 km	Castello Ruffo (San Giorgio Morgeto)	panorama sullo Stretto, torre merlata visitabile	+120 m di dislivello, bici fino all’arco medievale 
-turismo.reggiocal.it
-16,8	3 km	Cascata “La Scialata”	sentiero lungo il torrente, ponticelli e pic-nic	sterrato + breve trekking, casco leggero consigliato 
-Il Posto Ideale
-19,5	0 km (on-track)	Piano Zomaro	altopiano a 900 m con faggete e sorgenti oligominerali	rifugio-bar “Il Boschetto” a 50 m dalla pista 
-parconazionaleaspromonte.it
-25,9	1,2 km	Belvedere Ionio (dorsale Zomaro)	colpo d’occhio su Ionio, Serre e – nelle giornate terse – l’Etna	sterrata scorrevole, +70 m; sosta perfetta al tramonto 
-Italy Segreta
+## Arrivo & pernottamento  
+**Ristorante Da Cosimo**, Via Aldo Moro 1, Canolo – cell. 329 721 1506[^3]
 
-(Le distanze extra sono andata/ritorno: aggiungi solo quelle che farai davvero.)
+## Meteo previsto  
+- **Rosarno** (mattina): prevalenza di sole, 22‑27 °C, vento debole.  
+- **Canolo** (pomeriggio): sereno con locali velature, max 30 °C, vento in attenuazione.  
+☛ Avviso regionale: possibili rinforzi di vento il 1‑2 agosto (allerta gialla).
 
-3 | Consigli rapidi
-Ordina le soste: se vai di fretta, le “imperdibili” sono Castello Ruffo e Piano Zomaro; Medma è perfetta se parti con mezz’ora di margine.
+---
 
-Pressioni & freni: gomme 1,3-1,5 bar, pastiglie ok; lo sterrato dopo km 15 è compatto ma pietroso.
-
-Metti nello zaino: antivento leggero (sull’altopiano la brezza si fa sentire), 1 l d’acqua tra San Giorgio e Zomaro.
-
-Prossimo step: da Cànolo puoi valutare un anello serale verso Pietra Cappa (12 km A/R, +250 m) se hai ancora batteria e luce.
-
-Buona pedalata e buon Aspromonte!
+[^1]: <https://www.donnanela.it/>  
+[^2]: <https://www.facebook.com/castellodeglidei/>  
+[^3]: <https://www.ristorantedacosimo.it/>  
