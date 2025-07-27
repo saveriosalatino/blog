@@ -7,6 +7,10 @@ googleAnalytics: 'G-D6QV5WCFNJ'
 pagination:
   pagerSize: 10
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 Params:
     env: production
     author: "Saverio Salatino"
