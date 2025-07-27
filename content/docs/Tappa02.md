@@ -32,7 +32,7 @@ Dal borgo di **Canolo** si sale al **Passo del Mercante**, quindi si attraversa
 - **Canolo** (partenza): sereno, 18‑27 °C, vento moderato da N.  
 - **Gambarie** (arrivo): soleggiato, max 23 °C; possibili raffiche > 30 km/h nel pomeriggio.
 
-### 📌 Spot opzionali – Tappa 2 (Canolo → Gambarie)
+## 📌 Spot opzionali – Tappa 2 (Canolo → Gambarie)
 
 | Spot | Breve descrizione | Link ufficiale | Tel. | Percorso dal tracciato GPX | Distanza* |
 |------|------------------|----------------|------|----------------------------|-----------|

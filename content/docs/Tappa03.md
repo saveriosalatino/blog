@@ -26,7 +26,7 @@ Breve risalita a quota 1 366 m, poi lunga discesa panoramica verso **Ortì**
 - **Reggio Calabria** (pomeriggio): soleggiato, 26‑32 °C; ventilato da NW.
 
 
-### 📌 Spot opzionali – Tappa 3 (Gambarie → Reggio Calabria)
+## 📌 Spot opzionali – Tappa 3 (Gambarie → Reggio Calabria)
 
 | Spot | Breve descrizione | Link ufficiale | Tel. | Percorso dal tracciato GPX | Distanza* |
 |------|------------------|----------------|------|----------------------------|-----------|
