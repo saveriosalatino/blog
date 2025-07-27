@@ -6,16 +6,52 @@
     <description>Recent content in Docs on My New Hugo Site</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jun 2023 22:25:40 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jul 2025 13:09:00 +0200</lastBuildDate>
     <atom:link href="https://saveriosalatino.github.io/blog/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://saveriosalatino.github.io/blog/docs/test/</link>
-      <pubDate>Thu, 22 Jun 2023 22:25:40 +0200</pubDate>
-      <guid>https://saveriosalatino.github.io/blog/docs/test/</guid>
-      <description>&lt;p&gt;Test
-Test
-Test&lt;/p&gt;</description>
+      <title>Tappa01 - Da Rosarno a Canolo</title>
+      <link>https://saveriosalatino.github.io/blog/docs/tappa01/</link>
+      <pubDate>Sun, 27 Jul 2025 13:09:00 +0200</pubDate>
+      <guid>https://saveriosalatino.github.io/blog/docs/tappa01/</guid>
+      <description>&lt;p&gt;Qui sotto trovi il profilo altimetrico che ho ricavato dalla tua nuova traccia Rosarno ➜ Cànolo: le linee tratteggiate indicano i punti-di-interesse di cui parlo più avanti. Scorri il grafico per valutare dove spingere di più (o di meno) l’assistenza.&lt;/p&gt;
+&lt;p&gt;1 | La traccia in numeri
+Distanza	Dislivello +	Dislivello –	Quota min-max	Fondo prevalente
+33 km	≈ 980 m	≈ 85 m	16 → 955 m	primi 15 km asfaltati, poi sterrato forestale&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tappa02 - Da Canolo a Gambarie</title>
+      <link>https://saveriosalatino.github.io/blog/docs/tappa02/</link>
+      <pubDate>Sun, 27 Jul 2025 13:09:00 +0200</pubDate>
+      <guid>https://saveriosalatino.github.io/blog/docs/tappa02/</guid>
+      <description>&lt;p&gt;Qui Scriviamo qualcosa della tappa 1
+Roba in &lt;em&gt;grassetto&lt;/em&gt;
+Un &lt;em&gt;due&lt;/em&gt; &lt;em&gt;tre&lt;/em&gt; &lt;em&gt;stella&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;venerdì 1 agosto&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;famiglia Caglioni + Carlo -&amp;gt; alloggiano a Rosarno e partono da lì (no transfer)&lt;/li&gt;
+&lt;li&gt;Salatino -&amp;gt; con il treno, da Paola + Cosenza (Roberto sr.)&lt;/li&gt;
+&lt;li&gt;Marcello, Piergiorgio -&amp;gt;
+&amp;ndash; auto da Torremezzo 1h20m , 117 km
+&amp;ndash; treno (Paola - Rosarno) , 1h c.ca + tragitto Torremezzo, Paola
+partenza presto
+arrivo a Canolo Nuova (ristorante da Cosimo, prenotato per 11)
+costo 55€ a persona, non dato acconto, comprensivo di cena e colazione&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;sabato 2 agosto
+partenza presto - tracciato ciclovia - verificare intermedie/fare spesa venerdì pomeriggio per pranzo sabato
+arrivo a Gambarie
+albergo Hotel Centrale - quote differenziate&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tappa02 - Da Canolo a Gambarie</title>
+      <link>https://saveriosalatino.github.io/blog/docs/tappa03/</link>
+      <pubDate>Sun, 27 Jul 2025 13:09:00 +0200</pubDate>
+      <guid>https://saveriosalatino.github.io/blog/docs/tappa03/</guid>
+      <description>&lt;p&gt;Ecco la “scheda tecnica” del nuovo itinerario Gambarie → Reggio Calabria in e-MTB, con lo stesso formato delle due tracce precedenti.&lt;/p&gt;
+&lt;p&gt;1 | Colpo d’occhio sulla traccia
+Distanza	Dislivello +	Dislivello –	Quota min-max	Fondo prevalente
+32 km	≈ 110 m	≈ 1 420 m	5 → 1 350 m	primi 20 km sterrato forestale, poi asfalto&lt;/p&gt;
+&lt;p&gt;Da vedere sopra il grafico altimetrico con i POI tratteggiati: l’andamento è quasi tutto in discesa, ottimo per risparmiare batteria.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
