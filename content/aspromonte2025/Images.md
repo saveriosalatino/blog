@@ -1,6 +1,0 @@
-![Gambarie - Reggio (Altimetria) ](/images/21A3E7D2-A6BC-4955-9A6C-86639D51063F.PNG)
-![Rosarno - Canolo  (Spot)](/images/2A724F12-2D6E-43DA-A34D-1CA23EE6153F.PNG)
-![Gambarie - Reggio (Spot) ](/images/622D01A6-388E-4949-8D43-CA436C53EEC6.PNG)
-![Canolo - Gambarie (Altimetria)](/images/C43B0FEB-ED90-4052-A41B-245CA56719DD.PNG)
-![Rosarno - Canolo  (Altimetria)](/images/D98AB4AB-3C1A-40E7-A54D-68C206D04697.PNG)
-![Canolo - Gambarie (Spot)](/images/EBD5A6B3-1662-4621-90B6-D1030197F172.PNG)

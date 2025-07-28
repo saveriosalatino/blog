@@ -51,9 +51,8 @@ Si parte dalla **stazione FS di Rosarno** e si attraversa la piana di Gioia Tau
 \* Distanze misurate in linea d’aria dal percorso **Rosarno – Canolo**: valori certi indicati in **grassetto**; “n.d.” = coordinate non reperite da fonte ufficiale.  
 † Per gli spot con distanza “n.d.” si raccomanda di verificare sul posto o con guide locali.
 
----
 
-#### Come integrarli nella tappa
+### Come integrarli nella tappa
 
 - **Medma** e **Castello Ruffo** sono quasi sul percorso e richiedono solo lievi deviazioni.  
 - **Piano Zomaro** e le **Dolomiti della Calabria** possono essere digressioni pomeridiane, tenendo conto dell’autonomia della e‑bike.  
