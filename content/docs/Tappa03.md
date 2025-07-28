@@ -10,6 +10,8 @@ draft: false
 |----------|--------|---------|-------|--------|
 | 32,1 km  | 109 m  | 1 418 m | SP interno in buono stato | Freni in ordine per la lunga discesa |
 
+![Gambarie - Reggio (Altimetria) ](/images/21A3E7D2-A6BC-4955-9A6C-86639D51063F.PNG)
+
 ## Descrizione del percorso  
 Breve risalita a quota 1 366 m, poi lunga discesa panoramica verso **Ortì** (650 m) e il **Monastero della Visitazione**. Gli ultimi chilometri conducono sul lungomare “Falcomatà”, definito da D’Annunzio “il chilometro più bello d’Italia”, fino all’**Hotel Continental**.
 
@@ -17,6 +19,9 @@ Breve risalita a quota 1 366 m, poi lunga discesa panoramica verso **Ortì**
 - **Monastero della Visitazione** (Ortì).  
 - **Lungomare Falcomatà** e panorama su Etna e Stretto.  
 - **Museo Archeologico Nazionale** (a 500 m dall’hotel) – Bronzi di Riace.
+
+![Gambarie - Reggio (Spot) ](/images/622D01A6-388E-4949-8D43-CA436C53EEC6.PNG)
+
 
 ## Arrivo & pernottamento  
 **Hotel Continental**, Via V. Florio 10, Reggio Calabria – tel. 0965 812 181[^7]
