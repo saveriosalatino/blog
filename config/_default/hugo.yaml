@@ -1,6 +1,6 @@
 baseURL: 'https://saveriosalatino.github.io/blog/'
 languageCode: 'en-us'
-title: 'My New Hugo Site'
+title: 'Blog'
 theme: 'PaperMod'
 googleAnalytics: 'G-D6QV5WCFNJ'
 
